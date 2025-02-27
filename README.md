@@ -19,7 +19,7 @@ A classic **Snake Game** built using Python and the **turtle** module! Control t
 ```bash
 git clone https://github.com/anilsol159/Snake-Game.git
 cd Snake-Game
-
+```
 ## 🖼️ Game Screenshot  
 ![Snake Game Screenshot](image.png)
 
